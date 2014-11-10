@@ -1,2 +1,3 @@
+Second branch marker
 springProjectWithSeveralBranches
 ================================
